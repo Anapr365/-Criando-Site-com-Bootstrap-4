@@ -1,0 +1,24 @@
+{
+  "name": "-criando-site-com-bootstrap-4",
+  "version": "1.0.0",
+  "description": "Bootstrap é um framework front-end que facilita a vida dos desenvolvedores web a criar sites com tecnologia mobile (responsivo) sem ter que digitar uma linha de CSS para “fazer e acontecer”. No passado, o termo se referia a processos realizados sem ajuda externa, mas com uma facilitação inte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anapr365/-Criando-Site-com-Bootstrap-4.git"
+  },
+  "author": "Ana Paula Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anapr365/-Criando-Site-com-Bootstrap-4/issues"
+  },
+  "homepage": "https://github.com/Anapr365/-Criando-Site-com-Bootstrap-4#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
