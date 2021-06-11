@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Anapr365/-Criando-Site-com-Bootstrap-4#readme",
   "dependencies": {
+    "@mdn/browser-compat-data": "^3.3.7",
     "bootstrap": "^4.0.0-beta.2",
     "font-awesome": "^4.7.0",
     "jquery": "^3.6.0",
